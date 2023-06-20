@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+.swiper-slide {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #Fff;
+}
+
+.img-fluid {
+	max-width: 70%;
+	max-height: 70%;
+	padding-left: 10%;
+	padding-top: 8%;
+}
+
+.block-title {
+	color: midnightblue;
+	font-size: 20px;
+	font-weight: 600;
+	padding-bottom: 20px;
+}
+
+.card-products .card{
+	background-color: #f6f6f6;
+	border: 1px solid #eee;
+	align-content: center;
+	padding: 10px;
+	text-align: left;
+	min-height: 230px;
+}
+.card-products .card h4{
+	font-size: 18px;
+	font-size: 20px;
+}
